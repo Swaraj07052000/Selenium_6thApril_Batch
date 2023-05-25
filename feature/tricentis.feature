@@ -1,4 +1,4 @@
-@Login
+@tricentis_all_scenarios
 Feature: Tricentis Demo Web Shop
 
 
